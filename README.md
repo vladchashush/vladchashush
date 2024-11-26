@@ -30,8 +30,17 @@
     </tr>
   </table>
 </div>
-
-
+<p align="end">
+  <a href="https://t.me/tel_vlad">
+    <img src="public/assets/telegram.svg" alt="telegram logo" width="20" />
+  </a>
+  <a href="https://wa.me/995579067014">
+    <img src="public/assets/whatsapp.svg" alt="whatsApp logo" width="20" />
+  </a>
+  <a href="https://www.linkedin.com/in/vladislav-telyatnikov-02a4862ab/">
+    <img src="public/assets/linkedin.svg" alt="linkedIn logo" width="20" />
+  </a>
+</p>
 <p align="end">
   🌐
   <a href="README.md" target="_blank">English</a>
