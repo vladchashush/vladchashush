@@ -39,5 +39,4 @@
 
 <!-- markdownlint-enable MD033 -->
 
----
-🌐[English](README.md) [Русский](README.ru.md)
+
