@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <h3 align="start">🌟 Здесь вы найдёте::</h3>
+  <h3 align="start">🌟 Здесь вы найдёте:</h3>
 </p>
 
 <div align="center">
