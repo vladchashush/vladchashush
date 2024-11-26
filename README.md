@@ -16,3 +16,5 @@
 - 🛠️ Demo projects showcasing my skills in React, TypeScript, and more (yes, I make my code look as good as my UI).
 - 🧩 My experiments with algorithms, because why not make life harder for myself?
 - 🎮 Side quests in game development with Unity, where I create worlds and then debug them into existence.
+---
+[English](README.md) [Русский](README.ru.md)
