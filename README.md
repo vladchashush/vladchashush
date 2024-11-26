@@ -8,19 +8,29 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=6000&pause=1500&color=4493F8&center=true&width=435&lines=with+ReactJS+Library;with+NextJs+framework;with+JavaScript;with+TypeScript" alt="Typing SVG" /></a>
 </p>
+    <div align="center">
+<table>
+  <tr>
+    <td>
     <p align="center">
     <img src="https://media1.tenor.com/m/wF5RiCnfj34AAAAd/work-computer.gif" />
       </p>
-<p align="center">
-  <h3 align="start">🌟 Here you'll find:</h3>
-</p>
-      
-<ul>
+    </td>
+    <td>
+      <ul>
   <li>🛠️ Demo projects showcasing my skills in React, TypeScript, and more (yes, I make my code look as good as my UI).</li>
   <li>🧩 My experiments with algorithms, because why not make life harder for myself?</li>
   <li>🎮 Side quests in game development with Unity, where I create worlds and then debug them into existence.</li>
 </ul>
-  
+  </td>
+  </tr>
+</table>
+</div>
+<p align="center">
+  <h3 align="start">🌟 Here you'll find:</h3>
+</p>
+      
+
 <!-- markdownlint-enable MD033 -->
 
 ---
