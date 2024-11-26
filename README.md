@@ -30,7 +30,12 @@
     </tr>
   </table>
 </div>
-      
+
+<p align="end">
+  🌐
+  <a href="README.md" target="_blank">English</a>
+  <a href="README.ru.md" target="_blank">Русский</a>
+</p>
 
 <!-- markdownlint-enable MD033 -->
 
