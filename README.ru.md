@@ -33,7 +33,7 @@
       <td>
         <p align="start">
           🌐
-          <a href="README.ru.md" target="_blank">Русский</a>
+          <a href="README.md" target="_blank">English</a>
         </p>
       </td>
       <td>
