@@ -17,9 +17,9 @@
     <tr>
       <td>
         <ul>
-          <li>🛠️ Demo projects showcasing my skills in React, TypeScript, and more (yes, I make my code look as good as my UI).</li>
-          <li>🧩 My experiments with algorithms, because why not make life harder for myself?</li>
-          <li>🎮 Side quests in game development with Unity, where I create worlds and then debug them into existence.</li>
+          <li>🛠️ <b>Demo</b> projects showcasing my skills in <b>React</b>, <b>TypeScript</b>, and more (yes, I make my code look as good as my UI).</li>
+          <li>🧩 My experiments with <b>algorithms</b>, because why not make life harder for myself?</li>
+          <li>🎮 Side quests in game development with <b>Unity</b>, where I create worlds and then debug them into existence.</li>
         </ul>
       </td>
       <td>
