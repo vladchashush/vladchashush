@@ -31,7 +31,6 @@
   </table>
 </div>
 
-<hr>
 
 <p align="end">
   🌐
