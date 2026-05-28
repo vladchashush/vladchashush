@@ -11,7 +11,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=6000&pause=1500&color=4493F8&center=true&width=500&lines=Fullstack+Development;AI+Agent+Integrations;E2E+%26+Workflow+Automation;TypeScript+%2B+Node.js+%2B+Python" alt="Typing SVG" /></a>
 </p>
 <p align="center">
-  <h3 align="start">🌟 Here you'll find:</h3>
+  <h3 align="start">Here you'll find:</h3>
 </p>
 
 <div align="center">
@@ -19,9 +19,9 @@
     <tr>
       <td>
         <ul>
-          <li>🛠️ <b>Demo</b> projects showcasing my skills in <b>React</b>, <b>TypeScript</b>, and more (yes, I make my code look as good as my UI).</li>
-          <li>🧩 My experiments with <b>algorithms</b>, because why not make life harder for myself?</li>
-          <li>🎮 Side quests in game development with <b>Unity</b>, where I create worlds and then debug them into existence.</li>
+          <li><b>AI-Agent Workflows.</b> Autonomous tools and microservices driven by LLMs to automate complex business processes.</li>
+          <li><b>E2E Automation & CI/CD Boilerplates.</b> Production-ready setups for web scraping, browser automation, and continuous integration.</li>
+          <li><b>Fullstack Ecosystems & Dashboards.</b> Robust backend systems tightly coupled with modern, responsive user interfaces.</li>
         </ul>
       </td>
       <td>
