@@ -2,11 +2,13 @@
 <p align="center">
   <h1 align="center"><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>Hi there, my name is <a href="https://www.youtube.com/watch?v=DFSXP9Uedz4" target="_blank">Vladislav</a></h1>
 </p>
+
 <p align="center">
-  <span style="color: red;">and I'm in a ✨<b>serious</b> relationship✨<span>  
+  <span style="color: #4493F8;">and I <b>automate</b> things through code</span>  
 </p>
+
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=6000&pause=1500&color=4493F8&center=true&width=435&lines=with+ReactJS+Library;with+NextJs+framework;with+JavaScript;with+TypeScript" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=6000&pause=1500&color=4493F8&center=true&width=500&lines=Fullstack+Development;AI+Agent+Integrations;E2E+%26+Workflow+Automation;TypeScript+%2B+Node.js+%2B+Python" alt="Typing SVG" /></a>
 </p>
 <p align="center">
   <h3 align="start">🌟 Here you'll find:</h3>
