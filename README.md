@@ -19,9 +19,9 @@
     <tr>
       <td>
         <ul>
-          <li><b>AI-Agent Workflows.</b> Autonomous tools and microservices driven by LLMs to automate complex business processes.</li>
-          <li><b>E2E Automation & CI/CD Boilerplates.</b> Production-ready setups for web scraping, browser automation, and continuous integration.</li>
-          <li><b>Fullstack Ecosystems & Dashboards.</b> Robust backend systems tightly coupled with modern, responsive user interfaces.</li>
+          <li><b>AI-Agent Workflows.</b></br> Autonomous tools and microservices driven by LLMs to automate complex business processes.</li>
+          <li><b>E2E Automation & CI/CD Boilerplates.</b></br> Production-ready setups for web scraping, browser automation, and continuous integration.</li>
+          <li><b>Fullstack Ecosystems & Dashboards.</b></br> Robust backend systems tightly coupled with modern, responsive user interfaces.</li>
         </ul>
       </td>
       <td>
